@@ -1,5 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suppressions xmlns="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.1.xsd">
    <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.CodeCoverage.Shim.dll
+      ]]></notes>
+      <sha1>5232d8f57f098056bed6ef39e927c91f3dd68011</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>d228bdd36a9007072a514ed453915ced93310034</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>947aa7206d5d2098b0ec494b762475baedacad48</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>feb832e399330f6ead9cdd1022429cdc23383431</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>57d553b305e8383a200fef8144ff5777b3c47015</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>a8c7d90480eb564358cb254f33fbcb3db9b7531f</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>c7ee0a93dd825849999d1cc6cf3d77a206b1106e</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>8028bc03eb3fd7acb5dad81447eb5ae2fead96b6</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>95b529b64bb61cbc2ed5ae3f36591b30b9946a75</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>7f9352c6aba5b6ee2844f8f067dc2b75b970dd7b</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>2e143345f5ad06184295a3d536ddfd2833e5c786</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>8888dc3bab870e203f40f9283895feb5907be94f</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>d230817bc8a134fed6c5c88f2562633e1e153e88</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+      ]]></notes>
+      <sha1>3ae44bf5501d2ee710bf7fd6b68b02c5b3b2ffbb</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
+      file name: System.Threading.Thread.dll
+      ]]></notes>
+      <sha1>d519e6433f4aea90b478a13bfb49194d5e7cf3d5</sha1>
+      <cpe>cpe:/a:thread_project:thread</cpe>
    </suppress>
 </suppressions>
