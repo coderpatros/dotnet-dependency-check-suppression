@@ -107,6 +107,13 @@
    </suppress>
    <suppress>
       <notes><![CDATA[
+      file name: Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+      ]]></notes>
+      <sha1>4a391d0fcb302ff8084175bcf5c0003c26ec217a</sha1>
+      <cpe>cpe:/a:microsoft:visual_studio:15.0.0.0</cpe>
+   </suppress>
+   <suppress>
+      <notes><![CDATA[
       file name: System.Threading.Thread.dll
       ]]></notes>
       <sha1>d519e6433f4aea90b478a13bfb49194d5e7cf3d5</sha1>
