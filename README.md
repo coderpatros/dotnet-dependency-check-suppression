@@ -22,7 +22,9 @@ There isn't anything too special with the script and if you have your own suppre
 
 ## Pull Requests
 
-I'm more than happy to take pull requests. Due to the nature of this project I'll need you to provide full details of the package that triggered the false positive. Ideally you'll include the list of packages referenced in your csproj file so I can easily run the check myself.
+I'm more than happy to take pull requests. Due to the nature of this project I'll need you to provide full details of the package that triggered the false positive. Ideally you'll include the list of packages referenced in your csproj file so I can easily run dependency check myself to reproduce.
+
+If the suppression isn't specific to a particular file version please add a note explaing why the suppression is valid. i.e. "This vuln only applies to msdia.dll" or "This vuln only applies to the VS Code installer."
 
 I'd also ask you to look at how existing rules have been implemented. Particularly around matching filenames carefully if that is what the match needs to be against.
 
