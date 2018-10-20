@@ -10,4 +10,9 @@
         <filePath regex="true">.*(\/|\\)System\.Threading\.ThreadPool\.dll$</filePath>
         <cpe>cpe:/a:thread_project:thread</cpe>
     </suppress>
+    <suppress>
+        <notes>file name: System.Runtime.CompilerServices.Unsafe.dll></notes>
+        <filePath regex="true">.*(\/|\\)System\.Runtime\.CompilerServices\.Unsafe\.dll$</filePath>
+        <cpe>cpe:/a:services_project:services</cpe>
+    </suppress>
 </suppressions>
