@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suppressions xmlns="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.1.xsd">
-   <suppress>
-      <notes><![CDATA[
-      file name: System.Threading.Thread.dll
-      ]]></notes>
-      <filePath regex="true">.*(\/|\\)System\.Threading\.Thread\.dll$</filePath>
-      <cpe>cpe:/a:thread_project:thread</cpe>
-   </suppress>
-   <suppress>
-      <notes><![CDATA[
-      file name: System.Threading.ThreadPool.dll
-      ]]></notes>
-      <filePath regex="true">.*(\/|\\)System\.Threading\.ThreadPool\.dll$</filePath>
-      <cpe>cpe:/a:thread_project:thread</cpe>
-   </suppress>
+    <suppress>
+        <notes><![CDATA[
+        file name: System.Threading.Thread.dll
+        ]]></notes>
+        <filePath regex="true">.*(\/|\\)System\.Threading\.Thread\.dll$</filePath>
+        <cpe>cpe:/a:thread_project:thread</cpe>
+    </suppress>
+    <suppress>
+        <notes><![CDATA[
+        file name: System.Threading.ThreadPool.dll
+        ]]></notes>
+        <filePath regex="true">.*(\/|\\)System\.Threading\.ThreadPool\.dll$</filePath>
+        <cpe>cpe:/a:thread_project:thread</cpe>
+    </suppress>
 </suppressions>
