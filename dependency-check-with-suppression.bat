@@ -1,0 +1,1 @@
+dependency-check.bat --project test --scan ./temp --suppression patros-identifier-suppression.xml patros-vulnerability-suppression.xml
