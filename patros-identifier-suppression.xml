@@ -15,4 +15,9 @@
         <filePath regex="true">.*(\/|\\)System\.Runtime\.CompilerServices\.Unsafe\.dll$</filePath>
         <cpe>cpe:/a:services_project:services</cpe>
     </suppress>
+    <suppress>
+        <notes>file name: System.Security.Cryptography.OpenSsl.dll</notes>
+        <filePath regex="true">.*(\/|\\)System\.Security\.Cryptography\.OpenSsl\.dll$</filePath>
+        <cpe>cpe:/a:openssl:openssl</cpe>
+    </suppress>
 </suppressions>
